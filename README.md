@@ -1,2 +1,2 @@
-# SQL_Excercises
+# SQL_Exercises
 SQL practice
